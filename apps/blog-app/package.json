@@ -98,7 +98,7 @@
     "@your-org/core-lib": "workspace:*",
     "@your-org/ui-lib": "workspace:*",
     "cross-env": "7.0.3",
-    "next": "11.1.2",
+    "next": "12.1.0",
     "next-secure-headers": "2.2.0",
     "next-seo": "4.26.0",
     "react": "17.0.2",
